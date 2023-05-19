@@ -13,6 +13,15 @@
         android:theme="@style/Theme.AppCompat.Light"
         tools:targetApi="31">
         <activity
+            android:name=".Test4"
+            android:exported="false" />
+        <activity
+            android:name=".Test3"
+            android:exported="false" />
+        <activity
+            android:name=".Test2"
+            android:exported="false" />
+        <activity
             android:name=".Test1"
             android:exported="false" />
         <activity
